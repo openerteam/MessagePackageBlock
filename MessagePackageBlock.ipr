@@ -250,6 +250,9 @@
       <method />
     </configuration>
   </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
   <component name="libraryTable">
     <library name="Maven: cn.jpush.api:jiguang-common:1.1.3">
       <CLASSES>
